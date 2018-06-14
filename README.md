@@ -6,3 +6,5 @@ Truck Hit Soccer For 2018
 2. How to start: The game loaded finished click Play-then click on the checkpoint can start the game
 
 3. Game goal: reasonable operation, win the game.
+
+![avatar](https://github.com/SoccerZre/TruckHitSoccer/blob/master/q1.jpg)
