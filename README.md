@@ -8,3 +8,7 @@ Truck Hit Soccer For 2018
 3. Game goal: reasonable operation, win the game.
 
 ![avatar](https://github.com/SoccerZre/TruckHitSoccer/blob/master/q1.jpg)
+
+![avatar](https://github.com/SoccerZre/TruckHitSoccer/blob/master/q2.jpg)
+
+![avatar](https://github.com/SoccerZre/TruckHitSoccer/blob/master/q3.jpg)
